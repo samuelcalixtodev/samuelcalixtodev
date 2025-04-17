@@ -1,28 +1,27 @@
-# 👋 Olá, eu sou o Samuel Calixto!
+# 👋 Hi there, I'm Samuel Calixto!
 
-Sou um entusiasta da tecnologia e apaixonado por desenvolvimento de software. Estou focado no **Backend com Python** e explorando o  **Desenvolvimento Web**. Sempre buscando aprender, crescer e colaborar com a comunidade dev! 🚀
+I'm a technology enthusiast passionate about software development. I'm currently focused on **Backend with Python** and exploring **Web Development**. Always eager to learn, grow, and collaborate with the dev community! 🚀
 
-## 🧠 Atualmente estou aprendendo:
-- Desenvolvimento Web (HTML, CSS, JavaScript)
-- Python (Flask, Django, automações, APIs)
+## 🧠 Currently learning:
+- Web Development (HTML, CSS, JavaScript)
+- Python (Flask, Django, automations, APIs)
 
-## 🔧 Tecnologias e Ferramentas:
+## 🔧 Technologies & Tools:
 - 💻 Python | HTML | CSS | JavaScript 
-- 🐍 Flask (aprendendo)
+- 🐍 Flask (in progress)
 - 🛠️ Git & GitHub
 - 🧰 VS Code
 
-## 🌱 Projetos em andamento:
-- Construção de APIs com Python
-- Automatizações com Python
-- Sites e sistemas por hobbie
+## 🌱 Ongoing projects:
+- Building APIs with Python
+- Python automations
+- Fun personal web projects
 
-## 📫 Como me encontrar:
-- ✉️ Email: **[samuelcalixtof5@gmail.com.com]**
+## 📫 How to reach me:
+- ✉️ Email: **[samuelcalixtof5@gmail.com]**
 - 💼 LinkedIn: [linkedin.com/in/samuelcalixto](https://linkedin.com/in/samuelcalixto)
 
-## ⚡ Curiosidades:
-- Amo resolver problemas e aprender coisas novas!
-- Gosto de transformar ideias em soluções com código.
-- Me interesso por tecnologia, design e inovação.
-
+## ⚡ Fun facts:
+- I love solving problems and learning new things!
+- I enjoy turning ideas into solutions through code.
+- I'm deeply interested in technology, design, and innovation.
